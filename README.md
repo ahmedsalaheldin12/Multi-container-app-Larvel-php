@@ -1,5 +1,5 @@
-# MULTI CONTAINER APPLICATION LARVEL,PHP,NGINX AND MYSQL USING DOCKER COMPOSE
-A mulit cintainer app with 3 application containers and 3 utility containers to install tools which larvel application needs
+# MULTI CONTAINER APPLICATION LARAVEL,PHP,NGINX AND MYSQL USING DOCKER COMPOSE
+A mulit cintainer app with 3 application containers and 3 utility containers to install tools which laravel application needs
 
 ## Target setup image
 
